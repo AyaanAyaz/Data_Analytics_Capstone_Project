@@ -22,63 +22,63 @@ Reporting	Microsoft PowerPoint: Gamma (for AI-enhanced slide creation)
 
 ## Project Steps
 # 1. Data Loading & Initial Inspection
-# Load dataset into Python environment using Pandas.
+ Load dataset into Python environment using Pandas.
 
-Perform initial inspection: check dimensions, data types, missing values, and basic statistics.
+ Perform initial inspection: check dimensions, data types, missing values, and basic statistics.
 
-2. Data Cleaning & Preprocessing
-Handle missing values (imputation or removal).
+# 2. Data Cleaning & Preprocessing
+ Handle missing values (imputation or removal).
 
-Correct data types and formatting inconsistencies.
+ Correct data types and formatting inconsistencies.
 
-Remove duplicate entries.
+ Remove duplicate entries.
 
-Address outliers where appropriate.
+ Address outliers where appropriate.
 
-3. SQL Integration & Analysis
-Export cleaned data to PostgreSQL database.
+# 3. SQL Integration & Analysis
+ Export cleaned data to PostgreSQL database.
 
-Write and execute SQL queries for:
+ Write and execute SQL queries for:
 
-Aggregations and summaries
+ Aggregations and summaries
 
-Joins and subqueries
+ Joins and subqueries
 
-Window functions for advanced analytics
+ Window functions for advanced analytics
 
-Data validation and integrity checks
+ Data validation and integrity checks
 
-4. Power BI Dashboard Development
-Connect Power BI to PostgreSQL database (direct query or import).
+# 4. Power BI Dashboard Development
+ Connect Power BI to PostgreSQL database (direct query or import).
 
-Design an interactive dashboard with:
+ Design an interactive dashboard with:
 
-Key Performance Indicators (KPIs)
+ Key Performance Indicators (KPIs)
 
-Filters and slicers for user-driven exploration
+ Filters and slicers for user-driven exploration
 
-Charts, graphs, and tailored to business questions
+ Charts, graphs, and tailored to business questions
 
-Drill-down capabilities for detailed analysis
+ Drill-down capabilities for detailed analysis
 
-6. Reporting & Presentation
-Summarize findings in a comprehensive report (PDF/Word).
+# 6. Reporting & Presentation
+ Summarize findings in a comprehensive report (PDF/Word).
 
-Create a professional PowerPoint presentation using Gamma for:
+ Create a professional PowerPoint presentation using Gamma for:
 
-Project objectives and methodology
+ Project objectives and methodology
 
-Key insights and data visualizations
+ Key insights and data visualizations
 
-Business implications and recommendations
+ Business implications and recommendations
 
-Interactive elements or links to the dashboard
+ Interactive elements or links to the dashboard
 
-Dashboard
-The Power BI dashboard provides an interactive interface for stakeholders to explore key metrics. Main features include:
+# Dashboard
+ The Power BI dashboard provides an interactive interface for stakeholders to explore key metrics. Main features include:
 
-Detailed Analysis Pages: Thematic tabs (e.g., Sales Performance, Customer Segmentation, Regional Analysis).
+ Detailed Analysis Pages: Thematic tabs (e.g., Sales Performance, Customer Segmentation, Regional Analysis).
 
-Interactivity: Cross-filtering, date range selectors, category slicers.
+ Interactivity: Cross-filtering, date range selectors, category slicers.
 
-Data Refresh: Configured to refresh on schedule or on-demand.
+ Data Refresh: Configured to refresh on schedule or on-demand.
