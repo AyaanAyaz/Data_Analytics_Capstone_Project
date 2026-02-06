@@ -21,8 +21,8 @@ Dashboard & BI:	Power BI Desktop
 Reporting	Microsoft PowerPoint: Gamma (for AI-enhanced slide creation)
 
 ## Project Steps
-1. Data Loading & Initial Inspection
-Load dataset into Python environment using Pandas.
+# 1. Data Loading & Initial Inspection
+# Load dataset into Python environment using Pandas.
 
 Perform initial inspection: check dimensions, data types, missing values, and basic statistics.
 
